@@ -1,1 +1,1 @@
-worker: unzip sessions.tar.gz && npm start
+worker: unzip sessions.zip && npm start
